@@ -196,7 +196,13 @@
     content: "\e938";
 }
 .icon-earth:before {
-    content: "\e939";
+    /* content: "\e939"; */
+    background-image: url('http://www.smartlocker.co.kr/images/product/pro2.jpg');
+    background-size: 400px 400px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    content:"";
 }
 .icon-edit:before {
     content: "\e93a";
@@ -337,7 +343,13 @@
     content: "\e967";
 }
 .icon-lego-block:before {
-    content: "\e968";
+    /* content: "\e968"; */
+    background-image: url('http://www.smartlocker.co.kr/images/product/pro4_2_img1.jpg');
+    background-size: 400px 400px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    content:"";
 }
 .icon-life-buoy:before {
     content: "\e969";
@@ -370,7 +382,13 @@
     content: "\e972";
 }
 .icon-megaphone:before {
-    content: "\e973";
+    /* content: "\e973"; */
+    background-image: url('http://www.smartlocker.co.kr/images/product/pro9_1_img1.jpg');
+    background-size: 400px 400px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    content:"";
 }
 .icon-meh:before {
     content: "\e974";
@@ -448,7 +466,15 @@
     content: "\e98c";
 }
 .icon-paint-brush:before {
-    content: "\e98d";
+    /* content: "\e98d"; */
+    /* background-image: url('hoholock.JPG'); */
+    /* content: url('http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg'); */
+    background-image: url('http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg');
+    background-size: 400px 400px;
+    display: inline-block;
+    width: 400px;
+    height: 400px;
+    content:"";
 }
 .icon-paper-plane:before {
     content: "\e98e";
