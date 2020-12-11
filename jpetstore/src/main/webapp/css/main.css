@@ -2540,7 +2540,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
   max-width: 1024px;
   margin-top: 3rem;
   color: #FFFFFF;
-  z-index: 600;
+
   position: relative;
 }
 .contact-content h5 {
