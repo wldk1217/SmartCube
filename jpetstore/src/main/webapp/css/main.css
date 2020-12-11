@@ -1239,6 +1239,7 @@ header .row {
   height: auto;
   max-width: 1300px;
   position: relative;
+  
 }
 
 /* ------------------------------------------------------------------- 
@@ -1546,6 +1547,7 @@ header .header-logo a {
   position: relative;
   padding-top: 16.2rem;
   padding-bottom: 15rem;
+  align-items: center;
 }
 .home-content-tablecell h3 {
   font-family: "montserrat-bold", sans-serif;
@@ -1725,6 +1727,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     max-width: 480px;
     padding-top: 12rem;
     padding-bottom: 12rem;
+    transform: translateX(500%);
   }
   .home-content-tablecell h3 {
     font-size: 1.7rem;
@@ -1736,6 +1739,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
 @media only screen and (max-width: 500px) {
   .home-content-tablecell .row {
     max-width: 420px;
+    
   }
   .home-content-tablecell h3 {
     font-size: 1.5rem;

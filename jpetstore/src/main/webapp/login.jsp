@@ -108,7 +108,7 @@
    		</div> 
    	</div> <!-- end section-intro -->
 
-   	<div class="row contact-content">
+   	<div class="row contact-content" transform: translateX(500%)>
 
    		<div class="col-seven tab-full animate-this">
 
