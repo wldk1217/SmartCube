@@ -103,8 +103,8 @@
 
 		<div class="row narrow section-intro with-bottom-sep animate-this">
    		<div class="col-twelve">
-   			<h3>LOGIN</h3>
-   			<h1>로그인 후 이용하세요!</h1>
+   			<h3>REGISTER</h3>
+   			<h1>회원가입 후 이용하세요!</h1>
    		</div> 
    	</div> <!-- end section-intro -->
 
@@ -121,6 +121,16 @@
                
                <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="password" value="" minlength="2" required="">
+               </div>
+               
+                <div class="form-field">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="email" value="" minlength="2" required="">
+               </div>
+                <div class="form-field">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="name" value="" minlength="2" required="">
+               </div>
+                <div class="form-field">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="phone" value="" minlength="2" required="">
                </div>
 
 
