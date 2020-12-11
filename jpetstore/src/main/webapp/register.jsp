@@ -9,7 +9,7 @@
    <!--- basic page needs
    ================================================== -->
    <meta charset="utf-8">
-	<title>login</title>
+	<title>register</title>
 	<meta name="description" content="">  
 	<meta name="author" content="">
 
@@ -108,9 +108,7 @@
    		</div> 
    	</div> <!-- end section-intro -->
 
-   	<div class="row contact-content">
-
-   		<div class="col-seven tab-full animate-this">
+     <div class="row narrow section-intro with-bottom-sep animate-this">
 
             <!-- form -->
             <form name="contactForm" id="contactForm" method="post">     			

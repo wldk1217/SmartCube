@@ -108,19 +108,17 @@
    		</div> 
    	</div> <!-- end section-intro -->
 
-   	<div class="row contact-content">
-
-   		<div class="col-seven tab-full animate-this">
+  <div class="row narrow section-intro with-bottom-sep animate-this">
 
             <!-- form -->
             <form name="contactForm" id="contactForm" method="post">     			
 
                <div class="form-field">
- 					   <input name="contactName" type="text" id="contactName" placeholder="id" value="" minlength="2" required="">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="id" value="" " required="">
                </div>
                
                <div class="form-field">
- 					   <input name="contactName" type="text" id="contactName" placeholder="password" value="" minlength="2" required="">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="password" value=""  required="">
                </div>
 
 
