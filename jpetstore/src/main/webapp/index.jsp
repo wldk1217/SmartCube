@@ -159,7 +159,7 @@
 
 				<div class="intro">
 					<h3 class="animate-this">Company introduction</h3>
-	   			<p class="lead animate-this"><span>SmartCube</span> ë 2011ë ì¤ë¦½ë¶í° ì§ê¸ê¹ì§ íë°° ìì¥ì íì ì¼ë¡ ì§ì ë ë¶ì¤, ê°ì¸ ì ë³´ ì ì¶, ë¹ì© ê³¼ë¶ë´ ë±ì ë¬¸ì ë¥¼ ê·¸ëì ì¶ì í ê²½íê³¼ ê¸°ì ë ¥ì¼ë¡ ë¸ë ¥íê³  ììµëë¤.</p>	
+	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
 				</div>   
 
    		</div> <!-- end col-full  -->
