@@ -499,9 +499,8 @@
    </section> <!-- end clients -->
 
 
-	<!-- contact
-   ================================================== -->
-   <section id="contact">
+	<!-- contact -->
+   <!-- <section id="contact">
 
       <div class="overlay"></div>
 
@@ -512,7 +511,7 @@
 
    			<p class="lead">Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
    		</div> 
-   	</div> <!-- end section-intro -->
+   	</div>
 
    	<div class="row contact-content">
 
@@ -520,7 +519,6 @@
 
    			<h5>Send Us A Message</h5>
 
-            <!-- form -->
             <form name="contactForm" id="contactForm" method="post">     			
 
                <div class="form-field">
@@ -557,17 +555,17 @@
 						</div>
                </div>
 
-      		</form> <!-- end form -->
+      		</form>
 
-            <!-- contact-warning -->
+            
             <div id="message-warning"></div> 
 
-            <!-- contact-success -->
+            
       		<div id="message-success">
                <i class="fa fa-check"></i>Your message was sent, thank you!<br>
       		</div>
 
-         </div> <!-- end col-seven --> 
+         </div> 
 
          <div class="col-four tab-full contact-info end animate-this">
 
@@ -580,7 +578,7 @@
 	            	Mountain View, CA<br>
 	            	94043 US
 	            </p>
-	   		</div> <!-- end cinfo -->
+	   		</div>
 
 	   		<div class="cinfo">
 	   			<h6>Email Us At</h6>
@@ -588,7 +586,7 @@
 	   				someone@infinitysite.com<br>
 				   	info@infinitysite.com			     
 				   </p>
-	   		</div> <!-- end cinfo -->
+	   		</div> 
 
 	   		<div class="cinfo">
 	   			<h6>Call Us At</h6>
@@ -599,12 +597,12 @@
 				   </p>
 	   		</div>
 
-         </div> <!-- end cinfo --> 
+         </div> 
 
-   	</div> <!-- end row contact-content -->
+   	</div> 
 		
-	</section> <!-- end contact -->
-
+	</section> -->
+<!-- contact -->
 
 	<!-- footer
    ================================================== -->
