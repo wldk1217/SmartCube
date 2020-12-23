@@ -1727,7 +1727,7 @@ html[data-useragent*='MSIE 10.0'] .scrolldown,
     max-width: 480px;
     padding-top: 12rem;
     padding-bottom: 12rem;
-    transform: translateX(500%);
+    /* transform: translateX(500%); */
   }
   .home-content-tablecell h3 {
     font-size: 1.7rem;

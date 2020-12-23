@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
@@ -40,7 +41,7 @@
    <header> 
 
    	<div class="header-logo">
-	      <a href="index.html">SmartCube</a>
+	      <a href="index.jsp">SmartCube</a>
 	   </div> 
 
 		<a id="header-menu-trigger" href="#0">
@@ -65,7 +66,7 @@
 			<p class="sponsor-text">
 				Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">DreamHost</a>.
 				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->
+				<!-- Simply type	the promocode in the box labeled âPromo Codeâ when placing your order. -->
 			</p>			
 
 			<ul class="header-social-list">
@@ -158,7 +159,7 @@
 
 				<div class="intro">
 					<h3 class="animate-this">Company introduction</h3>
-	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
+	   			<p class="lead animate-this"><span>SmartCube</span> ë 2011ë ì¤ë¦½ë¶í° ì§ê¸ê¹ì§ íë°° ìì¥ì íì ì¼ë¡ ì§ì ë ë¶ì¤, ê°ì¸ ì ë³´ ì ì¶, ë¹ì© ê³¼ë¶ë´ ë±ì ë¬¸ì ë¥¼ ê·¸ëì ì¶ì í ê²½íê³¼ ê¸°ì ë ¥ì¼ë¡ ë¸ë ¥íê³  ììµëë¤.</p>	
 				</div>   
 
    		</div> <!-- end col-full  -->
@@ -667,7 +668,7 @@
 
       		<div class="col-twelve">
 	      		<div class="copyright">
-		         	<span>© Copyright Infinity 2016.</span> 
+		         	<span>Â© Copyright Infinity 2016.</span> 
 		         	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
 		         </div>		               
 	      	</div>

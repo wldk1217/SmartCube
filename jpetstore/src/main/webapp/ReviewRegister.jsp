@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
@@ -81,8 +82,8 @@
 	            </div> 
 
                <div class="form-field">
-                  <button class="submitform">작성완료</button>
-                  <button class="submitform" onclick="location.href='index2.html'">취소</button>
+                  <button class="submitform">작성완료</button>
+                  <button class="submitform" onclick="location.href='Review.jsp'">취소</button>
                   <div id="submit-loader">
                      <div class="text-loader">Sending...</div>                             
        			      <div class="s-loader">
@@ -204,7 +205,7 @@
 
       		<div class="col-twelve">
 	      		<div class="copyright">
-		         	<span>© Copyright Infinity 2016.</span> 
+		         	<span>Â© Copyright Infinity 2016.</span> 
 		         	<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
 		         </div>		               
 	      	</div>
