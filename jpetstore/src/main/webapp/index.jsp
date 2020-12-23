@@ -458,7 +458,7 @@
                </li> <!-- end slide -->
 			   <li>
 				   <div class="testimonial-author">
-					   <a href="Review.html">Review More
+					   <a href="Review.jsp">Review More
 						   <img src="images/right.png" alt="Author image">
 					   </a>
 				   </div>
