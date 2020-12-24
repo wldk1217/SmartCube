@@ -1,3 +1,4 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8" pageEncoding="UTF-8"%>
 <!DOCTYPE html>
 <!--[if IE 8 ]><html class="no-js oldie ie8" lang="en"> <![endif]-->
 <!--[if IE 9 ]><html class="no-js oldie ie9" lang="en"> <![endif]-->
@@ -68,8 +69,8 @@
 				</tr>
 				
 			  </table>
-			  <Button id="btn" type="button" onclick="location.href='index.html'">뒤로가기</Button>
-			  <Button id="btn" type="button" onclick="location.href='ReviewRegister.html'">작성하기</Button>
+			  <Button id="btn" type="button" onclick="location.href='index.jsp'">뒤로가기</Button>
+			  <Button id="btn" type="button" onclick="location.href='ReviewRegister.jsp'">작성하기</Button>
    		</div> 
    	</div> <!-- end section-intro -->
 
@@ -140,7 +141,7 @@
 
 		 <div class="col-twelve">
 			 <div class="copyright">
-				<span>© Copyright Infinity 2016.</span> 
+				<span>Â© Copyright Infinity 2016.</span> 
 				<span>Design by <a href="http://www.styleshout.com/">styleshout</a></span>		         	
 			</div>		               
 		 </div>

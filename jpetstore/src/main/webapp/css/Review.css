@@ -59,7 +59,7 @@ h1 {
   font-weight: normal;
   letter-spacing: -1px;
   color: #fff;
-  transform: translateY(900%);
+  /*transform: translateY(900%);*/
   text-align: center;
 }
 
@@ -71,7 +71,7 @@ h1 {
   display: flex;
   justify-content: center;
   align-items: center;
-  transform: translateY(200%);
+  /*transform: translateY(200%);*/
 }
 .rwd-table tr {
   border-color: #46637f;
@@ -90,5 +90,5 @@ h1 {
 
 #btn {
     float: right;
-  transform: translateY(1350%);
+  /*transform: translateY(1350%);*/
 }
