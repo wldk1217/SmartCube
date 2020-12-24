@@ -469,7 +469,7 @@
     /* content: "\e98d"; */
     /* background-image: url('hoholock.JPG'); */
     /* content: url('http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg'); */
-    background-image: url('http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg');
+    /*background-image: url('images\smartLocker.png') no-repeat center center;*/
     background-size: 400px 400px;
     display: inline-block;
     width: 400px;
