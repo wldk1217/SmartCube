@@ -38,6 +38,7 @@
 
 	<!-- header 
    ================================================== -->
+   <!-- 
    <header> 
 
    	<div class="header-logo">
@@ -66,7 +67,7 @@
 			<p class="sponsor-text">
 				Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">DreamHost</a>.
 				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled “Promo Code” when placing your order. -->
+				
 			</p>			
 
 			<ul class="header-social-list">
@@ -87,10 +88,10 @@
 	         </li>	         
 	      </ul>		
 
-		</nav>  <!-- end #menu-nav-wrap -->
+		</nav>  
 
-	</header> <!-- end header -->  
-
+	</header>  
+ -->
 
   
 
@@ -102,8 +103,8 @@
 
 		<div class="row narrow section-intro with-bottom-sep animate-this">
    		<div class="col-twelve">
-   			<h3>REGISTER</h3>
-   			<h1>회원가입 후 이용하세요!</h1>
+   			<h3>구매하기</h3>
+   			<h1>정보를 입력해주세요.</h1>
    		</div> 
    	</div> <!-- end section-intro -->
 
@@ -111,7 +112,8 @@
 
             <!-- form -->
             <form name="contactForm" id="contactForm" method="post">     			
-
+				
+				<!-- 
                <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="id" value="" minlength="2" required="">
                </div>
@@ -119,21 +121,35 @@
                <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="password" value="" minlength="2" required="">
                </div>
-               
-                <div class="form-field">
- 					   <input name="contactName" type="text" id="contactName" placeholder="email" value="" minlength="2" required="">
-               </div>
+                -->
+                <div>
+                	<form>
+                		<input name="A" type="radio" id="" value="A">
+                		<label for="r1">A</label>
+                		<input name="B" type="radio" id="" value="B">
+                		<label for="r2">B</label>
+                	</form>
+                </div>
                 <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="name" value="" minlength="2" required="">
                </div>
+                
+                <div class="form-field">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="email" value="" minlength="2" required="">
+               </div>
+                
                 <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="phone" value="" minlength="2" required="">
+               </div>
+               
+               <div class="form-field">
+ 					   <input name="contactName" type="text" id="contactName" placeholder="Address" value="" minlength="2" required="">
                </div>
 
 
                <div class="form-field">
-                  <button class="submitform">Submit</button>
-
+                  <button class="submitform">구매하기</button>
+				  <button class="submitform" onclick="location.href='index.jsp'">취소</button>
                 
                </div>
 
