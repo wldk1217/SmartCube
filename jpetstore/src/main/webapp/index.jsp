@@ -62,12 +62,14 @@
 				<li><a class="smoothscroll" href="#testimonials" title="">Review</a></li>
 				<li><a class="smoothscroll" href="#about" title="">Company Introduction</a></li>						
 			</ul>	
-
+			
+<!-- 
 			<p class="sponsor-text">
 				Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">DreamHost</a>.
-				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>. 
-				<!-- Simply type	the promocode in the box labeled âPromo Codeâ when placing your order. -->
+				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>.
 			</p>			
+
+
 
 			<ul class="header-social-list">
 	         <li>
@@ -86,6 +88,8 @@
 	         	<a href="#"><i class="fa fa-dribbble"></i></a>
 	         </li>	         
 	      </ul>		
+
+  -->
 
 		</nav>  <!-- end #menu-nav-wrap -->
 
@@ -120,6 +124,8 @@
 		   </div> <!-- end home-content-tablecell --> 		   
 		</div> <!-- end home-content-table -->
 
+
+<!-- 
 		<ul class="home-social-list">
 	      <li class="animate-intro">
 	        	<a href="#"><i class="fa fa-facebook-square"></i></a>
@@ -136,7 +142,8 @@
 	      <li class="animate-intro">
 	        	<a href="#"><i class="fa fa-dribbble"></i></a>
 	      </li>	      
-	   </ul> <!-- end home-social-list -->	
+	   </ul>
+-->	
 
 		<div class="scrolldown">
 			<a href="#about" class="scroll-icon smoothscroll">		
@@ -622,7 +629,9 @@
 
 		      </div> <!-- end footer-about -->
 
-	      	<div class="col-three tab-full footer-social">
+<!--      	
+
+            <div class="col-three tab-full footer-social">
 
 	      		<h4 class="h05">Follow Us.</h4>
 
@@ -634,7 +643,9 @@
 						<li><a href="#">Dribble</a></li>						
 					</ul>
 
-	      	</div> <!-- end footer-social -->  
+	      	</div>
+	      	
+-->  
 
 	      	<div class="col-four tab-full footer-subscribe end">
 
