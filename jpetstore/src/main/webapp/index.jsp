@@ -57,10 +57,10 @@
 
 			<ul class="nav-list">
 				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
-				<li><a class="smoothscroll" href="#about" title="">Company Introduction</a></li>
 				<li><a class="smoothscroll" href="#services" title="">Services</a></li>
 				<li><a class="smoothscroll" href="#portfolio" title="">Purchase</a></li>
-				<li><a class="smoothscroll" href="#testimonial-slider" title="">Review</a></li>						
+				<li><a class="smoothscroll" href="#about" title="">Company Introduction</a></li>
+				<li><a class="smoothscroll" href="#testimonials" title="">Review</a></li>						
 			</ul>	
 
 			<p class="sponsor-text">
@@ -148,24 +148,7 @@
    </section> <!-- end home -->
 
 
-   <!-- about
-   ================================================== -->
-   <section id="about">
 
-   	<div class="row about-wrap">
-   		<div class="col-full">
-
-   			<div class="about-profile-bg"></div>
-
-				<div class="intro">
-					<h3 class="animate-this">Company introduction</h3>
-	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
-				</div>   
-
-   		</div> <!-- end col-full  -->
-   	</div> <!-- end about-wrap  -->
-
-   </section> <!-- end about -->
 
 
    <!-- about
@@ -411,7 +394,26 @@
    	</div> <!-- end portfolio-content -->   	
 
    </section>  <!-- end portfolio -->
+   
+   <!-- about
+   ================================================== -->
+   <section id="about">
 
+
+   	<div class="row about-wrap">
+   		<div class="col-full">
+
+   			<div class="about-profile-bg"></div>
+
+				<div class="intro">
+					<h3 class="animate-this">Company introduction</h3>
+	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
+				</div>   
+
+   		</div> <!-- end col-full  -->
+   	</div> <!-- end about-wrap  -->
+
+   </section> <!-- end about -->
 
    <!-- Testimonials Section
    ================================================== -->
