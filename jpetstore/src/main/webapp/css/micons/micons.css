@@ -467,9 +467,8 @@
 }
 .icon-paint-brush:before {
     /* content: "\e98d"; */
-    /* background-image: url('hoholock.JPG'); */
-    /*background-image: url('http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg');
-    /*background-image: url('images/smartLocker.png') no-repeat;*/
+    /*background-image: url('http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg');*/
+    background-image: url('images/smartLocker.png');
     background-size: 400px 400px;
     display: inline-block;
     width: 400px;
