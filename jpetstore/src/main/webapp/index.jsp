@@ -254,6 +254,8 @@
 
    	</div> <!-- end intro-wrap -->   	
 
+
+
    	<div class="row portfolio-content">
    		<div class="col-twelve">
    			<div id="folio-wrap" class="bricks-wrapper">					
@@ -277,9 +279,7 @@
 						<div id="01" class='hide'>
 							<h4>스마트라커</h4>
 							<p>가 격 : 1,000,000원</p>
-							<form action="purchase.jsp" method="get">
-								<button type="submit" formmethod="GET" value=1>구매하기</button>
-							</form>
+							<Button>구매하기</Button>
 							
 						</div>
 	        		</div> <!-- end folio-item -->
@@ -303,7 +303,8 @@
 	               <div id="02" class='hide'>
 							<h4>스마트우편함</h4>
 							<p>가 격 : 1,000,000원</p>
-							<button>구매하기</button>
+							<Button>구매하기</Button>
+							
 						</div>	               
 	        		</div> <!-- end folio-item -->
 
@@ -326,7 +327,8 @@
 	               <div id="03" class='hide'>
 							<h4>프렌차이즈사물함</h4>
 							<p>가 격 : 1,000,000원</p>
-							<button>구매하기</button>
+							<Button>구매하기</Button>
+							
 						</div>               
 	        		</div> <!-- end folio-item -->
 
@@ -349,7 +351,8 @@
 	               <div id="04" class='hide'>
 							<h4>호호락</h4>
 							<p>가 격 : 1,000,000원</p>
-							<button>구매하기</button>
+							<Button>구매하기</Button>
+							
 						</div>  	               
 	        		</div> <!-- end folio-item -->
 

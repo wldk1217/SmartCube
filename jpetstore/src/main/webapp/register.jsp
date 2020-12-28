@@ -123,12 +123,7 @@
                </div>
                 -->
                 <div>
-                	<form>
-                		<input name="A" type="radio" id="" value="A">
-                		<label for="r1">A</label>
-                		<input name="B" type="radio" id="" value="B">
-                		<label for="r2">B</label>
-                	</form>
+
                 </div>
                 <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="name" value="" minlength="2" required="">
