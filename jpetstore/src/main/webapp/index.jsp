@@ -259,9 +259,9 @@
    			<div id="folio-wrap" class="bricks-wrapper">					
 
    				<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg" data-sub-html="#01" > 	
+	               <div class="item-wrap animate-this" data-src="imges/smartLocker.png" data-sub-html="#01" > 	
 	                  <a href="#" class="overlay">
-	                  	<img src="http://www.smartlocker.co.kr/images/product/pro4_3_img1.jpg" alt="Skaterboy">	                     
+	                  	<img src="images/smartLocker.png" alt="Skaterboy">	                     
 	                     <div class="item-text">
 	                     	<span class="folio-types">
 		     					      #1
@@ -285,9 +285,9 @@
 	        		</div> <!-- end folio-item -->
 
 	        		<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="http://www.smartlocker.co.kr/images/product/pro2.jpg" data-sub-html="#02"> 	
+	               <div class="item-wrap animate-this" data-src="images/smartMailBox.png" data-sub-html="#02"> 	
 	                  <a href="#" class="overlay">
-	                  	<img src="http://www.smartlocker.co.kr/images/product/pro2.jpg" alt="Shutterbug">	                     
+	                  	<img src="images/smartMailBox.png" alt="Shutterbug">	                     
 	                     <div class="item-text">
 	                     	<span class="folio-types">
 		     					      #2
@@ -308,9 +308,9 @@
 	        		</div> <!-- end folio-item -->
 
 	        		<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="http://www.smartlocker.co.kr/images/product/pro4_2_img1.jpg" data-sub-html="#03" >   	
+	               <div class="item-wrap animate-this" data-src="images/box.png" data-sub-html="#03" >   	
 	                  <a href="#" class="overlay">
-	                  	<img src="http://www.smartlocker.co.kr/images/product/pro4_2_img1.jpg" alt="Explore">	                     
+	                  	<img src="images/box.png" alt="Explore">	                     
 	                     <div class="item-text">	                     		     					    
 		     					   <span class="folio-types">
 		     					      #3
@@ -331,9 +331,9 @@
 	        		</div> <!-- end folio-item -->
 
 					<div class="brick folio-item">
-	               <div class="item-wrap animate-this"  data-src="http://www.smartlocker.co.kr/images/product/pro9_1_img1.jpg"  data-sub-html="#04" >
+	               <div class="item-wrap animate-this"  data-src="images/hoholock.png"  data-sub-html="#04" >
 	                  <a href="#" class="overlay">
-	                  	<img src="http://www.smartlocker.co.kr/images/product/pro9_1_img1.jpg" alt="Minimalismo">	                     
+	                  	<img src="images/hoholock.png" alt="Minimalismo">	                     
 	                     <div class="item-text">	     					    
 		     					   <span class="folio-types">
 		     					      #4
