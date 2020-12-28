@@ -53,16 +53,17 @@
 
 			<a href="#0" class="close-button" title="close"><span>Close</span></a>	
 
-	   	<h3>SmartCube</h3>  
-
+	   	<h3>SmartCube</h3>
 			<ul class="nav-list">
+<!--
 				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
 				<li><a class="smoothscroll" href="#services" title="">Services</a></li>
 				<li><a class="smoothscroll" href="#portfolio" title="">Purchase</a></li>
 				<li><a class="smoothscroll" href="#testimonials" title="">Review</a></li>
 				<li><a class="smoothscroll" href="#about" title="">Company Introduction</a></li>						
-			</ul>	
-			
+			</ul>		
+ -->
+ 		
 <!-- 
 			<p class="sponsor-text">
 				Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">DreamHost</a>.
@@ -106,7 +107,7 @@
 		   <div class="home-content-tablecell">
 		   	<div class="row">
 		   		<div class="col-twelve">		   			
-			  		
+	<!--		  		
 			  				<h3 class="animate-intro">Smart Cube</h3>
 				  			<h1 class="animate-intro">
 							SMARTCUBE  <br>
@@ -118,7 +119,7 @@
 				  					More See
 				  				</a>
 				  			</div>							
-
+     -->
 			  		</div> <!-- end col-twelve --> 
 		   	</div> <!-- end row --> 
 		   </div> <!-- end home-content-tablecell --> 		   
@@ -276,7 +277,7 @@
 						<div id="01" class='hide'>
 							<h4>스마트라커</h4>
 							<p>가 격 : 1,000,000원</p>
-							<form action="register.jsp" method="get">
+							<form action="purchase.jsp" method="get">
 								<button type="submit" formmethod="GET" value=1>구매하기</button>
 							</form>
 							
@@ -302,9 +303,7 @@
 	               <div id="02" class='hide'>
 							<h4>스마트우편함</h4>
 							<p>가 격 : 1,000,000원</p>
-							<form action="register.jsp" method="get">
-								<button type="submit" formmethod="GET" value=2>구매하기</button>
-							</form>
+							<button>구매하기</button>
 						</div>	               
 	        		</div> <!-- end folio-item -->
 
@@ -327,9 +326,7 @@
 	               <div id="03" class='hide'>
 							<h4>프렌차이즈사물함</h4>
 							<p>가 격 : 1,000,000원</p>
-							<form action="register.jsp" method="get">
-								<button type="submit" formmethod="GET" value=3>구매하기</button>
-							</form>
+							<button>구매하기</button>
 						</div>               
 	        		</div> <!-- end folio-item -->
 
@@ -352,9 +349,7 @@
 	               <div id="04" class='hide'>
 							<h4>호호락</h4>
 							<p>가 격 : 1,000,000원</p>
-							<form action="register.jsp" method="get">
-								<button type="submit" formmethod="GET" value=4>구매하기</button>
-							</form>
+							<button>구매하기</button>
 						</div>  	               
 	        		</div> <!-- end folio-item -->
 
