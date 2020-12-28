@@ -1366,7 +1366,7 @@ header .header-logo a {
   overflow-y: auto;
   z-index: 800;
   -webkit-transform: translateZ(0);
-  -webkit-backface-visibility: hidden;
+  /*-webkit-backface-visibility: hidden;*/
   -webkit-transform: translateX(100%);
   -ms-transform: translateX(100%);
   transform: translateX(100%);
