@@ -55,6 +55,27 @@
 
 	   	<h3>SmartCube</h3>
 			<ul class="nav-list">
+			
+			                    <div class="modal-body">
+                        <p class="help-block">호호락(HOHO LOCK) 구매</p>
+
+                            <table class="div-table table item-table">
+                                <tbody>
+
+                                    <tr>
+                                        <th scope="row">판매가격</th>
+                                        <td>
+                                            0원							<input type="hidden" id="it_price" value="0">
+                                        </td>
+                                    </tr>
+                                    
+                                    <tr>
+                                        <th>배송비결제</th>
+                                        <td>무료배송</td>
+                                    </tr>
+                                </tbody>
+                            </table>
+			
 <!--
 				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
 				<li><a class="smoothscroll" href="#services" title="">Services</a></li>
