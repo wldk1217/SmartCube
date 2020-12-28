@@ -282,7 +282,7 @@
    			<div id="folio-wrap" class="bricks-wrapper">					
 
    				<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="imges/smartLocker.png" data-sub-html="#01" > 	
+	               <div class="item-wrap animate-this" data-src="images/smartLocker.png" data-sub-html="#01" > 	
 	                  <a href="#" class="overlay">
 	                  	<img src="images/smartLocker.png" alt="Skaterboy">	                     
 	                     <div class="item-text">
