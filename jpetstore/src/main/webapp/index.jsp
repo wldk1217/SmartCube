@@ -184,8 +184,8 @@
 
 	      	<div class="bgrid service-item animate-this">	
 
-	      		<span class="icon"><i class="icon-paint-brush"></i></span>            
-
+	      		<span class="icon"><!-- <i class="icon-paint-brush"> </i>--></span>            
+				<img src="images/smartLocker.png">
 	            <div class="service-content">
 	            	<h3 class="h05">스마트라커</h3>
 
@@ -196,8 +196,8 @@
 
 				<div class="bgrid service-item animate-this">	
 
-					<span class="icon"><i class="icon-earth"></i></span>                          
-
+					<span class="icon"><!-- <i class="icon-earth"></i> --></span>                          
+				<img src="images/smartMailBox.png">
 	            <div class="service-content">	
 	            	<h3 class="h05">스마트우편함</h3>  
 
@@ -208,8 +208,8 @@
 
 			   <div class="bgrid service-item animate-this">
 
-			   	<span class="icon"><i class="icon-lego-block"></i></span>		            
-
+			   	<span class="icon"><!-- <i class="icon-lego-block"></i> --></span>		            
+				<img src="images/box.png">
 	            <div class="service-content">
 	            	<h3 class="h05">프렌차이즈사물함</h3>
 
@@ -220,8 +220,8 @@
 
 				<div class="bgrid service-item animate-this">
 
-					<span class="icon"><i class="icon-megaphone"></i></span>	              
-
+					<span class="icon"><!-- <i class="icon-megaphone"></i> --></span>	              
+				<img src="images/hoholock.png">
 	            <div class="service-content">
 	            	<h3 class="h05">호호락</h3>
 
