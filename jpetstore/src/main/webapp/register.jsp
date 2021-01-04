@@ -123,7 +123,8 @@
                </div>
                 -->
                 <div>
-
+                <%String name = request.getParameter("name");%>
+					<p>이름 : <%=name%></p>
                 </div>
                 <div class="form-field">
  					   <input name="contactName" type="text" id="contactName" placeholder="name" value="" minlength="2" required="">

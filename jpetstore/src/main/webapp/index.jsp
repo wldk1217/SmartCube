@@ -26,8 +26,8 @@
    ================================================== -->
 	<script src="js/modernizr.js"></script>
 	<script src="js/pace.min.js"></script>
-
-   <!-- favicons
+	
+	<!-- favicons
 	================================================== -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -300,7 +300,7 @@
 						<div id="01" class='hide'>
 							<h4>스마트라커</h4>
 							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
+							<Button type="Button" onclick="location.href='register.jsp?name=스마트라커'">구매하기</Button>
 							
 						</div>
 	        		</div> <!-- end folio-item -->
@@ -324,7 +324,8 @@
 	               <div id="02" class='hide'>
 							<h4>스마트우편함</h4>
 							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
+							<Button type="Button" onclick="location.href='register.jsp?name=스마트우편함'">구매하기</Button>
+							
 							
 						</div>	               
 	        		</div> <!-- end folio-item -->
@@ -348,7 +349,8 @@
 	               <div id="03" class='hide'>
 							<h4>프렌차이즈사물함</h4>
 							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
+							<Button type="Button" onclick="location.href='register.jsp?name=프렌차이즈사물함'">구매하기</Button>
+							
 							
 						</div>               
 	        		</div> <!-- end folio-item -->
@@ -372,7 +374,8 @@
 	               <div id="04" class='hide'>
 							<h4>호호락</h4>
 							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
+							<Button type="Button" onclick="location.href='register.jsp?name=호호락'">구매하기</Button>
+							
 							
 						</div>  	               
 	        		</div> <!-- end folio-item -->
