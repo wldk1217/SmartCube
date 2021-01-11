@@ -65,53 +65,20 @@
                                     <tr>
                                         <th scope="row">판매가격</th>
                                         <td>
-                                            0원							<input type="hidden" id="it_price" value="0">
+                                            0원							<input type="hidden" id="Sale_Price" value="0">
                                         </td>
                                     </tr>
                                     
                                     <tr>
                                         <th>배송비결제</th>
                                         <td>무료배송</td>
-                                    </tr>
+   
+                                   </tr>
+  
                                 </tbody>
                             </table>
-			
-<!--
-				<li class="current"><a class="smoothscroll" href="#home" title="">Home</a></li>
-				<li><a class="smoothscroll" href="#services" title="">Services</a></li>
-				<li><a class="smoothscroll" href="#portfolio" title="">Purchase</a></li>
-				<li><a class="smoothscroll" href="#testimonials" title="">Review</a></li>
-				<li><a class="smoothscroll" href="#about" title="">Company Introduction</a></li>						
-			</ul>		
- -->
+			<button>주 문 하 기</button>
  		
-<!-- 
-			<p class="sponsor-text">
-				Looking for an awesome and reliable webhosting? Try <a href="http://www.dreamhost.com/r.cgi?287326|STYLESHOUT">DreamHost</a>.
-				Get <span>$50 off</span> when you sign up with the promocode <span>styleshout</span>.
-			</p>			
-
-
-
-			<ul class="header-social-list">
-	         <li>
-	         	<a href="#"><i class="fa fa-facebook-square"></i></a>
-	         </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-twitter"></i></a>
-	         </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-instagram"></i></a>
-	         </li>
-            <li>
-            	<a href="#"><i class="fa fa-behance"></i></a>
-            </li>
-	         <li>
-	         	<a href="#"><i class="fa fa-dribbble"></i></a>
-	         </li>	         
-	      </ul>		
-
-  -->
 
 		</nav>  <!-- end #menu-nav-wrap -->
 
@@ -127,45 +94,17 @@
    	<div class="home-content-table">	
 		   <div class="home-content-tablecell">
 		   	<div class="row">
-		   		<div class="col-twelve">		   			
-	<!--		  		
-			  				<h3 class="animate-intro">Smart Cube</h3>
-				  			<h1 class="animate-intro">
-							SMARTCUBE  <br>
-							HOHOLOCK
-				  			</h1>	
+		   		<div class="col-twelve">	
+		   		
 
-				  			<div class="more animate-intro">
-				  				<a class="smoothscroll button stroke" href="#about">
-				  					More See
-				  				</a>
-				  			</div>							
-     -->
+		   			   			
 			  		</div> <!-- end col-twelve --> 
 		   	</div> <!-- end row --> 
 		   </div> <!-- end home-content-tablecell --> 		   
 		</div> <!-- end home-content-table -->
 
 
-<!-- 
-		<ul class="home-social-list">
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-facebook-square"></i></a>
-	      </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-twitter"></i></a>
-	      </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-instagram"></i></a>
-	      </li>
-         <li class="animate-intro">
-           	<a href="#"><i class="fa fa-behance"></i></a>
-         </li>
-	      <li class="animate-intro">
-	        	<a href="#"><i class="fa fa-dribbble"></i></a>
-	      </li>	      
-	   </ul>
--->	
+
 
 		<div class="scrolldown">
 			<a href="#about" class="scroll-icon smoothscroll">		
@@ -192,242 +131,85 @@
    			
    				<h3>Services</h3>
    			   <h1>Products</h1>
-			<!--
-   			   <p class="lead">Lorem ipsum Elit ut consequat veniam eu nulla nulla reprehenderit reprehenderit sit velit in cupidatat ex aliquip ut cupidatat Excepteur tempor id irure sed dolore sint sunt voluptate ullamco nulla qui Duis qui culpa voluptate enim ea aute qui veniam in irure et nisi nostrud deserunt est officia minim.</p>
-			   -->
+
+			   
+			   <div class="tabs">
+    			<input id="all" type="radio" name="tab_item" checked>
+    					<label class="tab_item" for="all">HOHOLOCK</label>
+    					
+    						<input id="programming" type="radio" name="tab_item">
+    							<label class="tab_item" for="programming">SMARTBOX</label>
+    							
+   									 <input id="design" type="radio" name="tab_item">
+   						 				<label class="tab_item" for="design">Tab 3</label>
+   						 				
+   						 					<input id="d" type="radio" name="tab_item">
+   						 						<label class="tab_item" for="d">Tab 4</label>
+   						 						
+   						 							<input id="dn" type="radio" name="tab_item">
+   						 								<label class="tab_item" for="dn">Tab 5</label>
+   						 
+   							 <div class="tab_content" id="all_content">
+
+              								  <img src="C:\Users\SmartCube\git\SmartCube\jpetstore\src\main\webapp\images\hoholock.png" width="500" height="700" align="left"/>
+              			
+       								  <img src="C:\Users\SmartCube\git\SmartCube\jpetstore\src\main\webapp\images\hoholock_in.PNG" width="500" height="500"  />
+	<button>주 문 하 기</button>
+       								 <button>장바구니 넣기</button>
+         						
+   							 </div>
+    						<div class="tab_content" id="programming_content">
+     							     2
+							</div>
+							
+    						<div class="tab_content" id="design_content">
+        							 3
+							</div>
+							<div class="tab_content" id="d_content">
+        							 4
+							</div>
+							<div class="tab_content" id="dn_content">
+        							 5
+							</div>
+			   
 			   
    	   </div> <!-- end col-full -->
    	</div> <!-- end row -->
-
-   	<div class="row services-content">
+  <div class="row services-content">
 
    		<div class="services-list block-1-2 block-tab-full group">
 
-	      	<div class="bgrid service-item animate-this">	
-
-	      		<span class="icon"><!-- <i class="icon-paint-brush"> </i>--></span>            
-				<img src="images/smartLocker.png">
-	            <div class="service-content">
-	            	<h3 class="h05">스마트라커</h3>
-
-		            <p> 탄력적이고 유연한 조직 운영을 위해 기업에서는 <br>스마트오피스 도입 <br>  자율좌석제에 따른 본인 물품 보관 목적에 사용<br><a href="http://www.smartlocker.co.kr/product/product0403.php" target="_blank">더보기</a> </p>	         		
-	         	</div> 	         	 
-
-				</div> <!-- end bgrid -->
-
-				<div class="bgrid service-item animate-this">	
-
-					<span class="icon"><!-- <i class="icon-earth"></i> --></span>                          
-				<img src="images/smartMailBox.png">
-	            <div class="service-content">	
-	            	<h3 class="h05">스마트우편함</h3>  
-
-		            <p> 우편물 분실 및 개인 정보 유출을 방지하는 전자식 우편함<a href="http://www.smartlocker.co.kr/product/product02.php"  target="_blank">더보기</a> </p>	         		
-	            </div>	                          
-
-			   </div> <!-- end bgrid -->
-
-			   <div class="bgrid service-item animate-this">
-
-			   	<span class="icon"><!-- <i class="icon-lego-block"></i> --></span>		            
-				<img src="images/box.png">
-	            <div class="service-content">
-	            	<h3 class="h05">프렌차이즈사물함</h3>
-
-		            <p> 프랜차이즈 매장용 사물함으로 무인 또는 자동화한 운영이 가능하며 결제를 통해 자유로운 사용이 가능<a href="http://www.smartlocker.co.kr/product/product0402.php " target="_blank">더보기</a> </p>
-	            </div> 	            	               
-
-			   </div> <!-- end bgrid -->
-
-				<div class="bgrid service-item animate-this">
-
-					<span class="icon"><!-- <i class="icon-megaphone"></i> --></span>	              
-				<img src="images/hoholock.png">
-	            <div class="service-content">
-	            	<h3 class="h05">호호락</h3>
-
-		            <p> 라커에 장착된 락(lock) 하나하나가 무선통신 통해 서버에 연결 <a href="http://www.smartlocker.co.kr/product/product0901.php" target="_blank">더보기</a> </p>	         		
-	            </div>                
-
-				</div> <!-- end bgrid -->			   
+	      	
+				
+			   
+				
 
 	      </div> <!-- end services-list -->
    		
-   	</div> <!-- end services-content -->   			
-
+   	</div> <!-- end services-content -->   	
+   	
    </section> <!-- end services -->
 
-
-   <!-- portfolio
+   
+<!-- about
    ================================================== -->
-   <section id="portfolio">
-   	
-   	<div class="intro-wrap">
-
-   		<div class="row narrow section-intro with-bottom-sep animate-this">
-	   		<div class="col-twelve">
-	   			<h3>Purchase</h3>
-		   		<h1>제품을 골라보세요.</h1>  			
-		   		
-		   		<p class="lead"> </p>	   			
-	   		</div>   		
-	   	</div> <!-- end row section-intro -->   		
-
-   	</div> <!-- end intro-wrap -->   	
+   <section id="about">
 
 
+   	<div class="row about-wrap">
+   		<div class="col-full">
 
-   	<div class="row portfolio-content">
-   		<div class="col-twelve">
-   			<div id="folio-wrap" class="bricks-wrapper">					
+   			<div class="about-profile-bg"></div>
 
-   				<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="images/smartLocker.png" data-sub-html="#01" > 	
-	                  <a href="#" class="overlay">
-	                  	<img src="images/smartLocker.png" alt="Skaterboy">	                     
-	                     <div class="item-text">
-	                     	<span class="folio-types">
-		     					      #1
-		     					   </span>
-		     					   <h3 class="folio-title">스마트라커</h3>	     					   
-		     					</div>                                        
-	                  </a>
-	                  <a href="https://www.behance.net/" class='details-link' title="details">
-	                  	<i class="icon-link"></i>
-	                  </a>
-	               </div> <!-- end item-wrap -->
-						
-						<div id="01" class='hide'>
-							<h4>스마트라커</h4>
-							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
-							
-						</div>
-	        		</div> <!-- end folio-item -->
+				<div class="intro">
+					<h3 class="animate-this">Company introduction</h3>
+	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
+				</div>   
 
-	        		<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="images/smartMailBox.png" data-sub-html="#02"> 	
-	                  <a href="#" class="overlay">
-	                  	<img src="images/smartMailBox.png" alt="Shutterbug">	                     
-	                     <div class="item-text">
-	                     	<span class="folio-types">
-		     					      #2
-		     					   </span>
-		     					   <h3 class="folio-title">스마트우편함</h3>  	     					   
-		     					</div>                                        
-	                  </a>
-	                  <a href="https://www.behance.net/" class='details-link' title="details">
-	                  	<i class="icon-link"></i>
-	                  </a>
-	               </div> <!-- end item-wrap -->
+   		</div> <!-- end col-full  -->
+   	</div> <!-- end about-wrap  -->
 
-	               <div id="02" class='hide'>
-							<h4>스마트우편함</h4>
-							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
-							
-						</div>	               
-	        		</div> <!-- end folio-item -->
-
-	        		<div class="brick folio-item">
-	               <div class="item-wrap animate-this" data-src="images/box.png" data-sub-html="#03" >   	
-	                  <a href="#" class="overlay">
-	                  	<img src="images/box.png" alt="Explore">	                     
-	                     <div class="item-text">	                     		     					    
-		     					   <span class="folio-types">
-		     					      #3
-		     					   </span>
-		     					   <h3 class="folio-title">프렌차이즈사물함</h3>
-		     					</div>                                        
-	                  </a>
-	                  <a href="https://www.behance.net/" class='details-link' title="details">
-	                  	<i class="icon-link"></i>
-	                  </a>
-	               </div> <!-- end item-wrap -->	
-
-	               <div id="03" class='hide'>
-							<h4>프렌차이즈사물함</h4>
-							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
-							
-						</div>               
-	        		</div> <!-- end folio-item -->
-
-					<div class="brick folio-item">
-	               <div class="item-wrap animate-this"  data-src="images/hoholock.png"  data-sub-html="#04" >
-	                  <a href="#" class="overlay">
-	                  	<img src="images/hoholock.png" alt="Minimalismo">	                     
-	                     <div class="item-text">	     					    
-		     					   <span class="folio-types">
-		     					      #4
-		     					   </span>
-		     					   <h3 class="folio-title">호호락</h3>
-		     					</div>                                        
-	                  </a>
-	                  <a href="https://www.behance.net/" class='details-link' title="details">
-	                  	<i class="icon-link"></i>
-	                  </a>
-	               </div> <!-- end item-wrap -->
-
-	               <div id="04" class='hide'>
-							<h4>호호락</h4>
-							<p>가 격 : 1,000,000원</p>
-							<Button>구매하기</Button>
-							
-						</div>  	               
-	        		</div> <!-- end folio-item -->
-
-					<!-- <div class="brick folio-item">
-	               <div class="item-wrap animate-this"  data-src="images/portfolio/gallery/g-skaterboy.jpg"  data-sub-html="#05" >  	
-	                  <a href="#" class="overlay">
-	                  	<img src="images/portfolio/skaterboy.jpg" alt="Bicycle">	                     
-	                     <div class="item-text">	     					    
-		     					   <span class="folio-types">
-		     					      Branding
-		     					   </span>
-		     					   <h3 class="folio-title">Skaterboy</h3>
-		     					</div>                                        
-	                  </a>
-	                  <a href="https://www.behance.net/" class='details-link' title="details">
-	                  	<i class="icon-link"></i>
-	                  </a>
-	               </div> 
-
-	               <div id="05" class='hide'>
-							<h4>Skaterboy</h4>
-							<p>Lorem ipsum Dolor deserunt labore sint officia. Magna et aute enim proident tempor sunt quis nulla voluptate fugiat velit. <a href="https://www.behance.net/">Details</a></p>
-						</div>	               
-	        		</div> 
-	           
-					<div class="brick folio-item">
-	               <div class="item-wrap animate-this"  data-src="images/portfolio/gallery/g-salad.jpg"  data-sub-html="#06">     	
-	                  <a href="#" class="overlay">
-	                  	<img src="images/portfolio/salad.jpg" alt="Salad">	                     
-	                     <div class="item-text">	     					    
-		     					   <span class="folio-types">
-		     					      Branding
-		     					   </span>
-		     					   <h3 class="folio-title">Salad</h3>
-		     					</div>                                        
-	                  </a>
-	                  <a href="https://www.behance.net/" class='details-link' title="details">
-	                  	<i class="icon-link"></i>
-	                  </a>
-	               </div> 
-
-	               <div id="06" class='hide'>
-							<h4>Salad</h4>
-							<p>Lorem ipsum Dolor deserunt labore sint officia. Magna et aute enim proident tempor sunt quis nulla voluptate fugiat velit. <a href="www.behance.net">Details</a></p>
-						</div>	               
-	        		</div>   				 -->
-
-   			</div> <!-- end folio-wrap -->
-   		</div> <!-- end twelve -->
-   	</div> <!-- end portfolio-content -->   	
-
-   </section>  <!-- end portfolio -->
-   
-   
+   </section>
 
    <!-- Testimonials Section
    ================================================== -->
@@ -486,158 +268,7 @@
       </div> <!-- end flex-container -->
 
    </section> <!-- end testimonials -->
-<!-- about
-   ================================================== -->
-   <section id="about">
 
-
-   	<div class="row about-wrap">
-   		<div class="col-full">
-
-   			<div class="about-profile-bg"></div>
-
-				<div class="intro">
-					<h3 class="animate-this">Company introduction</h3>
-	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
-				</div>   
-
-   		</div> <!-- end col-full  -->
-   	</div> <!-- end about-wrap  -->
-
-   </section> <!-- end about -->
-
-	<!-- stats
-   ================================================== -->
-   <!--  
-   <section id="clients">
-
-		<div class="row animate-this">
-			<div class="col-twelve">
-
-				<div class="client-lists owl-carousel">
-  					<div><img src="images/clients/mozilla.png" alt=""></div>
-  					<div><img src="images/clients/bower.png" alt=""></div>
-  					<div><img src="images/clients/codepen.png" alt=""></div>
-  					<div><img src="images/clients/envato.png" alt=""></div>
-  					<div><img src="images/clients/firefox.png" alt=""></div>
-  					<div><img src="images/clients/grunt.png" alt=""></div>
-  					<div><img src="images/clients/evernote.png" alt=""></div>
-  					<div><img src="images/clients/github.png" alt=""></div>
-  					<div><img src="images/clients/joomla.png" alt=""></div>
-  					<div><img src="images/clients/jQuery.png" alt=""></div>
-  					<div><img src="images/clients/wordpress.png" alt=""></div>
-				</div>
-				
-			</div> 
-		</div> 
-
-   </section> 
--->
-
-	<!-- contact -->
-   <!-- <section id="contact">
-
-      <div class="overlay"></div>
-
-		<div class="row narrow section-intro with-bottom-sep animate-this">
-   		<div class="col-twelve">
-   			<h3>Contact</h3>
-   			<h1>Get In Touch.</h1>
-
-   			<p class="lead">Quisque velit nisi, pretium ut lacinia in, elementum id enim. Curabitur arcu erat, accumsan id imperdiet et, porttitor at sem. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent sapien massa, convallis a pellentesque nec, egestas non nisi.</p>
-   		</div> 
-   	</div>
-
-   	<div class="row contact-content">
-
-   		<div class="col-seven tab-full animate-this">
-
-   			<h5>Send Us A Message</h5>
-
-            <form name="contactForm" id="contactForm" method="post">     			
-
-               <div class="form-field">
- 					   <input name="contactName" type="text" id="contactName" placeholder="Name" value="" minlength="2" required="">
-               </div>
-
-               <div class="row">
-                 	<div class="col-six tab-full">
-                 		<div class="form-field">
-                 			<input name="contactEmail" type="email" id="contactEmail" placeholder="Email" value="" required="">
-                 		</div>		      			   
-		            </div>
-	            	<div class="col-six tab-full">	            
-	            		<div class="form-field">
-	            			<input name="contactSubject" type="text" id="contactSubject" placeholder="Subject" value="">
-	                  </div>		     				   
-		            </div>
-               </div>
-                                         
-               <div class="form-field">
-	              	<textarea name="contactMessage" id="contactMessage" placeholder="message" rows="10" cols="50" required=""></textarea>
-	            </div> 
-
-               <div class="form-field">
-                  <button class="submitform">Submit</button>
-
-                  <div id="submit-loader">
-                     <div class="text-loader">Sending...</div>                             
-       			      <div class="s-loader">
-							  	<div class="bounce1"></div>
-							  	<div class="bounce2"></div>
-							  	<div class="bounce3"></div>
-							</div>
-						</div>
-               </div>
-
-      		</form>
-
-            
-            <div id="message-warning"></div> 
-
-            
-      		<div id="message-success">
-               <i class="fa fa-check"></i>Your message was sent, thank you!<br>
-      		</div>
-
-         </div> 
-
-         <div class="col-four tab-full contact-info end animate-this">
-
-         	<h5>Contact Information</h5>
-
-         	<div class="cinfo">
-	   			<h6>Where to Find Us</h6>
-	   			<p>
-	            	1600 Amphitheatre Parkway<br>
-	            	Mountain View, CA<br>
-	            	94043 US
-	            </p>
-	   		</div>
-
-	   		<div class="cinfo">
-	   			<h6>Email Us At</h6>
-	   			<p>
-	   				someone@infinitysite.com<br>
-				   	info@infinitysite.com			     
-				   </p>
-	   		</div> 
-
-	   		<div class="cinfo">
-	   			<h6>Call Us At</h6>
-	   			<p>
-	   				Phone: (+63) 555 1212<br>
-				   	Mobile: (+63) 555 0100<br>
-				     	Fax: (+63) 555 0101
-				   </p>
-	   		</div>
-
-         </div> 
-
-   	</div> 
-		
-	</section> -->
-<!-- contact -->
 
 	<!-- footer
    ================================================== -->
@@ -654,23 +285,6 @@
 
 		      </div> <!-- end footer-about -->
 
-<!--      	
-
-            <div class="col-three tab-full footer-social">
-
-	      		<h4 class="h05">Follow Us.</h4>
-
-	      		<ul class="list-links">
-	      			<li><a href="#">Facebook</a></li>
-						<li><a href="#">Twitter</a></li>
-						<li><a href="#">Instagram</a></li>
-						<li><a href="#">Behance</a></li>
-						<li><a href="#">Dribble</a></li>						
-					</ul>
-
-	      	</div>
-	      	
--->  
 
 	      	<div class="col-four tab-full footer-subscribe end">
 

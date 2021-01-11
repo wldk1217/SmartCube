@@ -1208,7 +1208,7 @@ input::-moz-focus-inner {
 }
 
 .narrow {
-  max-width: 800px;
+  max-width: 1200px;
 }
 
 .js .animate-this, .js .animate-intro {
@@ -1248,7 +1248,7 @@ header .row {
 header .header-logo {
   position: absolute;
   left: 32px;
-  top: 47px;
+  top: 45px;
   -moz-transition: all 1s ease-in-out;
   -o-transition: all 1s ease-in-out;
   -webkit-transition: all 1s ease-in-out;
@@ -1262,9 +1262,9 @@ header .header-logo a {
   outline: 0;
   border: none;
   width: 150px;
-  height: 28px;
+  height: 30px;
   background: url("../images/logo.png") no-repeat center;
-  background-size: 150px 28px;
+  background-size: 150px 25px;
   font: 0/0 a;
   text-shadow: none;
   color: transparent;
@@ -3023,3 +3023,59 @@ footer h4.h05::after {
 #r1:checked + label {
     background:url(https://s3-us-west-2.amazonaws.com/s.cdpn.io/210284/check_radio_sheet.png) -57px top no-repeat;
 }
+
+
+/* ≈« Ω∫≈∏¿œ */
+.tab_item {
+  width : 100%;
+  width: calc(100%/5);
+  height: 70px;
+  border-bottom: 4px solid rgb(0, 0, 0);
+  background-color: rgba(51,51,51,0.1);
+  margin-top:50px;
+  line-height: 50px;
+  font-size: 15px;
+  text-align: center;
+  color: #ffffff;
+  display: block;
+  float: left;
+  text-align: center;
+  font-weight: bold;
+  transition: all 0.2s ease;
+  border-radius: 10px 10px 0px 0px;
+}
+
+.tab_item:hover {
+  opacity: 0.75;
+}
+
+/* ∂Ûµø¿ πˆ∆∞ UIªË¡¶*/
+input[name="tab_item"] {
+  display: none;
+}
+
+/* ≈« ƒ¡≈Ÿ√˜ Ω∫≈∏¿œ */
+.tab_content {
+  display: none;
+  padding: 50px 50px 0;
+  clear: both;
+  overflow: hidden;
+  border-radius: 0px 0px 5px 5px;
+}
+
+
+/* º±≈√ µ» ≈« ƒ‹≈Ÿ√˜∏¶ «•Ω√ */
+#all:checked ~ #all_content,
+#programming:checked ~ #programming_content,
+#design:checked ~ #design_content,
+#d:checked ~ #d_content,
+#dn:checked ~ #dn_content {
+  display: block;
+}
+
+/* º±≈√µ» ≈« Ω∫≈∏¿œ */
+.tabs input:checked + .tab_item {
+  background-color:rgb(0, 0, 0);
+  color: #fff;
+}
+
