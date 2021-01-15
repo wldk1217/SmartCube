@@ -26,8 +26,8 @@
    ================================================== -->
 	<script src="js/modernizr.js"></script>
 	<script src="js/pace.min.js"></script>
-
-   <!-- favicons
+	
+	<!-- favicons
 	================================================== -->
 	<link rel="shortcut icon" href="favicon.ico" type="image/x-icon">
 	<link rel="icon" href="favicon.ico" type="image/x-icon">
@@ -201,15 +201,154 @@
 
    			<div class="about-profile-bg"></div>
 
+<<<<<<< HEAD
 				<div class="intro">
 					<h3 class="animate-this">Company introduction</h3>
 	   			<p class="lead animate-this"><span>SmartCube</span> 는 2011년 설립부터 지금까지 택배 시장의 허점으로 지적된 분실, 개인 정보 유출, 비용 과부담 등의 문제를 그동안 축적한 경험과 기술력으로 노력하고 있습니다.</p>	
 				</div>   
+=======
+   				<div class="brick folio-item">
+	               <div class="item-wrap animate-this" data-src="images/smartLocker.png" data-sub-html="#01" > 	
+	                  <a href="#" class="overlay">
+	                  	<img src="images/smartLocker.png" alt="Skaterboy">	                     
+	                     <div class="item-text">
+	                     	<span class="folio-types">
+		     					      #1
+		     					   </span>
+		     					   <h3 class="folio-title">스마트라커</h3>	     					   
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->
+						
+						<div id="01" class='hide'>
+							<h4>스마트라커</h4>
+							<p>가 격 : 1,000,000원</p>
+							<Button type="Button" onclick="location.href='register.jsp?name=스마트라커'">구매하기</Button>
+							
+						</div>
+	        		</div> <!-- end folio-item -->
+>>>>>>> branch 'main' of https://github.com/wldk1217/SmartCube.git
 
    		</div> <!-- end col-full  -->
    	</div> <!-- end about-wrap  -->
 
+<<<<<<< HEAD
    </section>
+=======
+	               <div id="02" class='hide'>
+							<h4>스마트우편함</h4>
+							<p>가 격 : 1,000,000원</p>
+							<Button type="Button" onclick="location.href='register.jsp?name=스마트우편함'">구매하기</Button>
+							
+							
+						</div>	               
+	        		</div> <!-- end folio-item -->
+
+	        		<div class="brick folio-item">
+	               <div class="item-wrap animate-this" data-src="images/box.png" data-sub-html="#03" >   	
+	                  <a href="#" class="overlay">
+	                  	<img src="images/box.png" alt="Explore">	                     
+	                     <div class="item-text">	                     		     					    
+		     					   <span class="folio-types">
+		     					      #3
+		     					   </span>
+		     					   <h3 class="folio-title">프렌차이즈사물함</h3>
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->	
+
+	               <div id="03" class='hide'>
+							<h4>프렌차이즈사물함</h4>
+							<p>가 격 : 1,000,000원</p>
+							<Button type="Button" onclick="location.href='register.jsp?name=프렌차이즈사물함'">구매하기</Button>
+							
+							
+						</div>               
+	        		</div> <!-- end folio-item -->
+
+					<div class="brick folio-item">
+	               <div class="item-wrap animate-this"  data-src="images/hoholock.png"  data-sub-html="#04" >
+	                  <a href="#" class="overlay">
+	                  	<img src="images/hoholock.png" alt="Minimalismo">	                     
+	                     <div class="item-text">	     					    
+		     					   <span class="folio-types">
+		     					      #4
+		     					   </span>
+		     					   <h3 class="folio-title">호호락</h3>
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> <!-- end item-wrap -->
+
+	               <div id="04" class='hide'>
+							<h4>호호락</h4>
+							<p>가 격 : 1,000,000원</p>
+							<Button type="Button" onclick="location.href='register.jsp?name=호호락'">구매하기</Button>
+							
+							
+						</div>  	               
+	        		</div> <!-- end folio-item -->
+
+					<!-- <div class="brick folio-item">
+	               <div class="item-wrap animate-this"  data-src="images/portfolio/gallery/g-skaterboy.jpg"  data-sub-html="#05" >  	
+	                  <a href="#" class="overlay">
+	                  	<img src="images/portfolio/skaterboy.jpg" alt="Bicycle">	                     
+	                     <div class="item-text">	     					    
+		     					   <span class="folio-types">
+		     					      Branding
+		     					   </span>
+		     					   <h3 class="folio-title">Skaterboy</h3>
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> 
+
+	               <div id="05" class='hide'>
+							<h4>Skaterboy</h4>
+							<p>Lorem ipsum Dolor deserunt labore sint officia. Magna et aute enim proident tempor sunt quis nulla voluptate fugiat velit. <a href="https://www.behance.net/">Details</a></p>
+						</div>	               
+	        		</div> 
+	           
+					<div class="brick folio-item">
+	               <div class="item-wrap animate-this"  data-src="images/portfolio/gallery/g-salad.jpg"  data-sub-html="#06">     	
+	                  <a href="#" class="overlay">
+	                  	<img src="images/portfolio/salad.jpg" alt="Salad">	                     
+	                     <div class="item-text">	     					    
+		     					   <span class="folio-types">
+		     					      Branding
+		     					   </span>
+		     					   <h3 class="folio-title">Salad</h3>
+		     					</div>                                        
+	                  </a>
+	                  <a href="https://www.behance.net/" class='details-link' title="details">
+	                  	<i class="icon-link"></i>
+	                  </a>
+	               </div> 
+
+	               <div id="06" class='hide'>
+							<h4>Salad</h4>
+							<p>Lorem ipsum Dolor deserunt labore sint officia. Magna et aute enim proident tempor sunt quis nulla voluptate fugiat velit. <a href="www.behance.net">Details</a></p>
+						</div>	               
+	        		</div>   				 -->
+
+   			</div> <!-- end folio-wrap -->
+   		</div> <!-- end twelve -->
+   	</div> <!-- end portfolio-content -->   	
+
+   </section>  <!-- end portfolio -->
+   
+   
+>>>>>>> branch 'main' of https://github.com/wldk1217/SmartCube.git
 
    <!-- Testimonials Section
    ================================================== -->
