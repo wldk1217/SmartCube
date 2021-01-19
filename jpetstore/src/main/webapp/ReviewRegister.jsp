@@ -223,7 +223,7 @@
 
    <div id="preloader"> 
     	<div id="loader"></div>
-   </div> 
+   </div>
 
    <!-- Java Script
    ================================================== --> 
