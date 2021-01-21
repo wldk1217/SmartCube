@@ -151,10 +151,13 @@
    						 
    							 <div class="tab_content" id="all_content">
 
-              								  <img src="C:\Users\SmartCube\git\SmartCube\jpetstore\src\main\webapp\images\hoholock.png" width="500" height="700" align="left"/>
+              								  <img src="images/hoholock.png" width="500" height="700" align="left"/>
               			
-       								  <img src="C:\Users\SmartCube\git\SmartCube\jpetstore\src\main\webapp\images\hoholock_in.PNG" width="500" height="500"  />
-	<button>주 문 하 기</button>
+       								  <img src="images/hoholock_in.PNG" width="500" height="500"  />
+									<form method="GET" action="register.jsp">
+										<button name="name" value="호호락">주 문 하 기</button>
+									</form>
+									
        								 <button>장바구니 넣기</button>
          						
    							 </div>
